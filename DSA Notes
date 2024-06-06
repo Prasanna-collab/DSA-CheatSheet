@@ -1,0 +1,14 @@
+BiG O
+
+How we can say which code is best? for one feature there are multiple solutions are there right!.
+
+By checking the code using Execution Time?
+  when we perform the time difference between different operations to complete we will get the time taken by the fucntion.
+but it depends onthe system capacity, it will change with each request. so its is not reliable. so we cannot take ths as actuall measuing tool.
+
+if not time then what?
+count the number of operations computer has to perform.
+
+By Checking the code using Space taken by it?
+
+ 
